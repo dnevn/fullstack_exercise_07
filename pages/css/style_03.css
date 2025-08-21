@@ -76,7 +76,7 @@ body {
 .post-describle {
     font-size: 1em;
     color: #888;
-    margin: 15px;
+    margin: 15px 0px;
     height: 80px;
     overflow: hidden;
 }
@@ -87,7 +87,7 @@ body {
     color: #fff;
     text-decoration: none;
     padding: 10px 20px;
-    margin: 15px;
+    margin: 15px 0px;
     transition: background-color 0.3s ease;
 }
 
