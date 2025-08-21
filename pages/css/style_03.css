@@ -39,7 +39,7 @@ body {
 .blog-container {
     display: flex;
     justify-content: center;
-    gap: 8px;
+    column-gap: 10px;
 }
 
 .blog-post {
